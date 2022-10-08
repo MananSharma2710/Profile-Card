@@ -448,11 +448,11 @@ class VanillaTilt {
       "mouse-event-element": null,
       reset: true,
       gyroscope: true,
-      gyroscopeMinAngleX: -45,
-      gyroscopeMaxAngleX: 45,
-      gyroscopeMinAngleY: -45,
-      gyroscopeMaxAngleY: 45,
-      gyroscopeSamples: 10
+      gyroscopeMinAngleX: -60,
+      gyroscopeMaxAngleX: 60,
+      gyroscopeMinAngleY: -60,
+      gyroscopeMaxAngleY: 60,
+      gyroscopeSamples: 20
     };
 
     let newSettings = {};
